@@ -1,0 +1,23 @@
+{
+  "buildTime": 1680359425,
+  "htmlStyle": [
+    "body {font-family: 'Tibetan Machine Uni'; font-size: 14pt;}",
+    "p {text-align: left; line-height: 115%; margin-top: 0.00em; margin-bottom: 0.58em;}",
+    "h1 {color: rgb(66, 113, 174); page-break-after: avoid; margin-top: 1.00em; margin-bottom: 0.50em;}",
+    "h2 {color: rgb(66, 113, 174); page-break-after: avoid; margin-top: 0.83em; margin-bottom: 0.50em;}",
+    "h3 {color: rgb(50, 50, 50); page-break-after: avoid; margin-top: 0.58em; margin-bottom: 0.50em;}",
+    "h4 {color: rgb(50, 50, 50); page-break-after: avoid; margin-top: 0.58em; margin-bottom: 0.50em;}",
+    ".title {font-size: 2.5em; margin-top: 1.00em; margin-bottom: 0.50em;}",
+    ".sep, .skip {text-align: center; margin-top: 1.00em; margin-bottom: 1.00em;}",
+    "a {color: rgb(66, 113, 174);}",
+    ".tags {color: rgb(245, 135, 31); font-weight: bold;}",
+    ".break {text-align: left;}",
+    ".synopsis {font-style: italic;}",
+    ".comment {font-style: italic; color: rgb(100, 100, 100);}"
+  ],
+  "htmlText": [
+    "<h1 class='title' style='text-align: center;'>Interplanetary Food Service</h1>\n<p style='text-align: center;'>By Rhia Ro</p>\n",
+    "<h1 style='page-break-before: always;'>Prelude</h1>\n<p>It's a common misconception that fourth-phase kuondiformae are unaware of our surroundings in the chrysalis state. Many see the pod we build around ourselves and imagine us to be akin to some kind of lepidoptera; that inside the cocoon we dissolve ourselves into a slurry. People from worlds without moths and butterflies usually think we are hibernating, asleep.</p>\n<p>The truth, which it does us no harm to keep to ourselves in general, is somewhere between the two.</p>\n<p>We reconfigure our bodies and minds, certainly, and all the while we are employing what we think of as a kind of passive memory accumulation. We are not hearing or seeing or smelling in the way most species understand it, but we are sensing everything around us. Taking input, and storing it.</p>\n<p>We spend about three quarters of our lives in this state. Some people - especially those of shorter-lived species for whom this would span multiple generations - wonder at our \"wasted\" time. The kik'kik once offered us (long before I had emerged) a gene tweak to shorten the chrysalis state, so that we wouldn't \"miss out\" on so much of the galaxy's happenings. They were offering an opportunity, they said, to learn and develop as we always had, but to be \"up and about\" while doing it. The offer was understandable, from a society perpetually involving itself in everyone else's affairs, but their struggle to understand our refusal was a surprise for such a philosophically and technologically advanced bunch.</p>\n<p>The remnants of the kik'kik society are archaeological sites now. We, the kuondiformae, are still here.</p>\n",
+    "<p class='sep' style='text-align: center;'>* * *</p>\n"
+  ]
+}

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-01 15:29:29">
+  <project>
+    <name>Interplanetary Food Service</name>
+    <title>Interplanetary Food Service</title>
+    <author>Rhia Ro</author>
+    <saveCount>1</saveCount>
+    <autoCount>2</autoCount>
+    <editTime>17</editTime>
+  </project>
+  <settings>
+    <doBackup>True</doBackup>
+    <language>None</language>
+    <spellCheck>False</spellCheck>
+    <spellLang>None</spellLang>
+    <autoOutline>True</autoOutline>
+    <lastEdited>bddf643b8ef07</lastEdited>
+    <lastViewed>None</lastViewed>
+    <lastWordCount>10</lastWordCount>
+    <novelWordCount>10</novelWordCount>
+    <notesWordCount>0</notesWordCount>
+    <autoReplace/>
+    <titleFormat>
+      <title>%title%</title>
+      <chapter>%title%</chapter>
+      <unnumbered>%title%</unnumbered>
+      <scene>* * *</scene>
+      <section></section>
+    </titleFormat>
+    <status>
+      <entry blue="100" green="100" red="100">New</entry>
+      <entry blue="0" green="50" red="200">Note</entry>
+      <entry blue="0" green="150" red="200">Draft</entry>
+      <entry blue="0" green="200" red="50">Finished</entry>
+    </status>
+    <importance>
+      <entry blue="100" green="100" red="100">New</entry>
+      <entry blue="0" green="50" red="200">Minor</entry>
+      <entry blue="0" green="150" red="200">Major</entry>
+      <entry blue="0" green="200" red="50">Main</entry>
+    </importance>
+  </settings>
+  <content count="8">
+    <item handle="e85f088e64945" order="0" parent="None">
+      <name>Novel</name>
+      <type>ROOT</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <expanded>True</expanded>
+    </item>
+    <item handle="ba02bbb41eb25" order="0" parent="e85f088e64945">
+      <name>Title Page</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>37</charCount>
+      <wordCount>6</wordCount>
+      <paraCount>1</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="2dddb2c05dec0" order="1" parent="e85f088e64945">
+      <name>New Chapter</name>
+      <type>FOLDER</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <expanded>True</expanded>
+    </item>
+    <item handle="bddf643b8ef07" order="0" parent="2dddb2c05dec0">
+      <name>New Chapter</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>11</charCount>
+      <wordCount>2</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="805089799cda7" order="1" parent="2dddb2c05dec0">
+      <name>New Scene</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>9</charCount>
+      <wordCount>2</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="833ac7978fc57" order="1" parent="None">
+      <name>Plot</name>
+      <type>ROOT</type>
+      <class>PLOT</class>
+      <status>New</status>
+      <expanded>False</expanded>
+    </item>
+    <item handle="820a62f4d3d2c" order="2" parent="None">
+      <name>Characters</name>
+      <type>ROOT</type>
+      <class>CHARACTER</class>
+      <status>New</status>
+      <expanded>False</expanded>
+    </item>
+    <item handle="1dde83ba92382" order="3" parent="None">
+      <name>World</name>
+      <type>ROOT</type>
+      <class>WORLD</class>
+      <status>New</status>
+      <expanded>False</expanded>
+    </item>
+  </content>
+</novelWriterXML>

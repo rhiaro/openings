@@ -1,0 +1,24 @@
+{
+  "GuiBuildNovel": {
+    "hideScene": false,
+    "hideSection": true,
+    "winWidth": 899,
+    "winHeight": 799,
+    "boxWidth": 339,
+    "docWidth": 534,
+    "justifyText": false,
+    "noStyling": false,
+    "textFont": "Tibetan Machine Uni",
+    "textSize": 14,
+    "lineHeight": 1.15,
+    "addNovel": true,
+    "addNotes": false,
+    "ignoreFlag": false,
+    "incSynopsis": false,
+    "incComments": false,
+    "incKeywords": false,
+    "incBodyText": true,
+    "replaceTabs": false,
+    "replaceUCode": false
+  }
+}
