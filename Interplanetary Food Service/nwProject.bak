@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-01 15:29:11">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-02 22:23:20">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
-    <saveCount>1</saveCount>
-    <autoCount>1</autoCount>
-    <editTime>0</editTime>
+    <saveCount>2</saveCount>
+    <autoCount>4</autoCount>
+    <editTime>798</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>None</lastEdited>
+    <lastEdited>85d49c872197c</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>0</lastWordCount>
-    <novelWordCount>0</novelWordCount>
-    <notesWordCount>0</notesWordCount>
+    <lastWordCount>683</lastWordCount>
+    <novelWordCount>680</novelWordCount>
+    <notesWordCount>3</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -40,13 +40,13 @@
       <entry blue="0" green="200" red="50">Main</entry>
     </importance>
   </settings>
-  <content count="8">
+  <content count="10">
     <item handle="e85f088e64945" order="0" parent="None">
       <name>Novel</name>
       <type>ROOT</type>
       <class>NOVEL</class>
       <status>New</status>
-      <expanded>False</expanded>
+      <expanded>True</expanded>
     </item>
     <item handle="ba02bbb41eb25" order="0" parent="e85f088e64945">
       <name>Title Page</name>
@@ -55,9 +55,9 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>0</charCount>
-      <wordCount>0</wordCount>
-      <paraCount>0</paraCount>
+      <charCount>37</charCount>
+      <wordCount>6</wordCount>
+      <paraCount>1</paraCount>
       <cursorPos>0</cursorPos>
     </item>
     <item handle="2dddb2c05dec0" order="1" parent="e85f088e64945">
@@ -65,7 +65,7 @@
       <type>FOLDER</type>
       <class>NOVEL</class>
       <status>New</status>
-      <expanded>False</expanded>
+      <expanded>True</expanded>
     </item>
     <item handle="bddf643b8ef07" order="0" parent="2dddb2c05dec0">
       <name>New Chapter</name>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>0</charCount>
-      <wordCount>0</wordCount>
-      <paraCount>0</paraCount>
-      <cursorPos>0</cursorPos>
+      <charCount>3945</charCount>
+      <wordCount>672</wordCount>
+      <paraCount>13</paraCount>
+      <cursorPos>3979</cursorPos>
     </item>
     <item handle="805089799cda7" order="1" parent="2dddb2c05dec0">
       <name>New Scene</name>
@@ -86,8 +86,8 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>0</charCount>
-      <wordCount>0</wordCount>
+      <charCount>9</charCount>
+      <wordCount>2</wordCount>
       <paraCount>0</paraCount>
       <cursorPos>0</cursorPos>
     </item>
@@ -103,7 +103,31 @@
       <type>ROOT</type>
       <class>CHARACTER</class>
       <status>New</status>
-      <expanded>False</expanded>
+      <expanded>True</expanded>
+    </item>
+    <item handle="85d49c872197c" order="0" parent="820a62f4d3d2c">
+      <name>Niriscine</name>
+      <type>FILE</type>
+      <class>CHARACTER</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>9</charCount>
+      <wordCount>1</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="f081bcd8695f9" order="1" parent="820a62f4d3d2c">
+      <name>Hu Bohgdan</name>
+      <type>FILE</type>
+      <class>CHARACTER</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>10</charCount>
+      <wordCount>2</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
     </item>
     <item handle="1dde83ba92382" order="3" parent="None">
       <name>World</name>

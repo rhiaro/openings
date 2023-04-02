@@ -6,15 +6,24 @@
       "T000001": {"level": "H1", "title": "Interplanetary Food Service", "layout": "DOCUMENT", "cCount": 37, "wCount": 6, "pCount": 1, "synopsis": ""}
     },
     "bddf643b8ef07": {
-      "T000001": {"level": "H1", "title": "Prelude", "layout": "DOCUMENT", "cCount": 1576, "wCount": 265, "pCount": 5, "synopsis": ""}
+      "T000001": {"level": "H2", "title": "Prelude", "layout": "DOCUMENT", "cCount": 1576, "wCount": 265, "pCount": 5, "synopsis": ""},
+      "T000013": {"level": "H2", "title": "Chapter One: The Markets of Callore", "layout": "DOCUMENT", "cCount": 2369, "wCount": 407, "pCount": 8, "synopsis": ""}
     },
     "805089799cda7": {
       "T000001": {"level": "H3", "title": "New Scene", "layout": "DOCUMENT", "cCount": 9, "wCount": 2, "pCount": 0, "synopsis": ""}
+    },
+    "85d49c872197c": {
+      "T000001": {"level": "H1", "title": "Niriscine", "layout": "NOTE", "cCount": 9, "wCount": 1, "pCount": 0, "synopsis": ""}
+    },
+    "f081bcd8695f9": {
+      "T000001": {"level": "H1", "title": "Hu Bohgdan", "layout": "NOTE", "cCount": 10, "wCount": 2, "pCount": 0, "synopsis": ""}
     }
   },
   "fileMeta": {
     "ba02bbb41eb25": ["H1", 37, 6, 1],
-    "bddf643b8ef07": ["H1", 1576, 265, 5],
-    "805089799cda7": ["H3", 9, 2, 0]
+    "bddf643b8ef07": ["H2", 3945, 672, 13],
+    "805089799cda7": ["H3", 9, 2, 0],
+    "85d49c872197c": ["H1", 9, 1, 0],
+    "f081bcd8695f9": ["H1", 10, 2, 0]
   }
 }
