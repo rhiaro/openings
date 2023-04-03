@@ -32,5 +32,29 @@ As the shift wore on, and Niriscine made more and more mistakes, and even as mor
 
 The kitchen was on the eighty fifth storey of one of one hundred and seventeen mega towers which bristled across the surface of the island-city Gunduk Lesser. The mega towers were all fairly distinct, and it was straightforward to navigate between them, so long as you actually had the right address in mind. They were named for historic rulers of the island, which tended to differ from each other by only a few characters or accents, and which non-locals, like Niriscine, struggled to pronounce or remember even with a good grasp of the Gunduk language. This is how she had ended up ascending to the eighty fifth floor of chindow-hik'gonoth Aline thuwum III, and finding herself in a mechanics workshop, rather than the Interplanetary Food Service kitchen in chindow-hit'gonoth Alina thuwum III.
 
+They Opened that day at the Markets of Callore. Hu Bohgdan had suggested this as Niriscine's first day, because the Markets were on her home planet of Eskine.
+
+Niriscine had agreed enthusiastically, and then gone to do as much research as possible, because the Constabulary of Callore was the other side of the planet, literally and figuratively half a world away, from where she grew up. Culturally, geographically, and socially, Gunduk Lesser had more in common with the Eskine planetary capital, E0, than did Callore.
+
+Nonetheless, there would be humans here. Niriscine surprised herself with a twinge of homesickness for her own kind.
+
+The metropolis of E0 was a multicultural, multispecies melting pot, the biggest transit and education hub in the system, with large communities of every known sentient peoples represented. After E6, the original human colony moon (known locally as Maoran), E0 was home to the second largest human population in the system as well. The Constabulary of Callore held the third. Niriscine had never been there in person.
+
+"We're Opening!" Bellowed Hu Bohgdan. There were four other people in the kitchen now, and the velocity of scurrying changed, becoming momentarily more frantic. Niriscine hastily assembled the last batch of greelan, in the correct order, finally, and added the tray laden with layers of fermented Eskite roots and berries to the cooler.
+
+"Human, come here," said Kein, a cybernetically-modded GHUO (Generic Humanoid, Unknown Origins) from the Signori asteroid belt, and the Food Service's technology expert. "I'll show you how we Open."
+
+Hu Bohgdan made a loud sound, somewhere between a bark and a cough, and everyone jumped.
+
+"Kein, you will address Niriscine by her name, not species, thank kyou," hu growled.
+
+Kein waved a robotic third hand, which protruded from the center of their back to rise up and over their head.
+
+"I forgot, I forgot, sorry boss."
+
+"It's okay-" Niriscine started to say, but Hu Bohgdan drowned her out.
+
+"You forget nothing, do not pretend otherwise. Get to work."
+
 * * *
 
