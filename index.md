@@ -58,3 +58,39 @@ Kein waved a robotic third hand, which protruded from the center of their back t
 
 * * *
 
+## Misc scenes
+
+There was a stranger in the kitchen when Niriscine arrived. Standing with arms folded (two), and staring with - Niriscine interpreted the alien's expression as best she could - a stern, impatient glare at the deactivated Opening.
+
+"Uh, good day," she said in polite, formal Gunduk. "Can I help you?"
+
+The stranger turned, seeming to loom taller. NIriscine felt like she was looking at one of those optical tricks that messes with the sense of perspective in a room. The alien surely wasn't much taller than Niriscine herself, with glossy, leathery-thick skin like Hu Bohgdan's, except in a shade of deep fuschia instead of gold. The eyes and nose were wide, shoulders broad, and fingers thick, with no ears to speak of on either side of the hairless head.
+
+"Where is Hu Bohgdan?" Said the strainger in a deep, creaky voice, in eavily accented Eskit.
+
+"Um. Hu will be here later. For the first shift it's just me and, ah-"
+
+Gillopus arrived  behind Niriscine at that moment, much to her relief.
+
+"Si Mekeneye!" Gillopus squeaked, rushing forward. The alien seemed to relax, the sense of looming dominance dissipating. It wasn't that the alien's physical size had changed, so much as Niriscine had been feeling smaller.
+
+Niriscine looked on, unsure of what to do with herself, as Gillipus fussed around the newcomer with comfortable familiarity. They pulled up a seat, prepared a warm drink, and plated up a small, delicate pastry, all while chittering away in their rapid-sounding native tongue.
+
+For a moment, they both paused, looking over at Niriscine.
+
+Gillopus switched to Eskit. "This is our newest member, Niriscine, a human from Eskine. Niri, this is Si Mekeneye, Hu Bohgdan's, uh... parent?"
+
+Gillipus squeaked something else at Si Mekeneye, who nodded indulgently.
+
+"The translation is approximate, but conveys enough. You might say I am, or rather was, Hu Bohgdan's raiser? Rearer? Bearer? Mother?"
+
+Sis voice seemed less creaky now; still gravelly and deep, but with richer undertones.
+
+"A pleasure to meet you," Niriscine felt drawn into the well of sis large, dark eyes. "You don't look like Hu Bohgdan," she blurted, wondering at once why in the stars she had done so.
+
+"And why should?" But si didn't seem annoyed, only amused. "We are of different, hmm, orders. Hu Bohgdan left us to become Hu long long ago. Before hu even had a chance to become Si."
+
+Niriscine grasped for what little knowledge she had of Caturmian physiology. There were five - or six? - "orders" as Si Mekeneye had termed it, which divided their society, and played a role somewhat similar to social caste or gender might in other societies, but didn't really map directly onto anything Niriscine was more familiar with. She didn't know if they were born a certain way, or how they changed, or how much choice in the matter any of them had. She reined in her curiosity; now didn't seem like the appropriate time to start asking.
+
+"Have you, uh, travelled far?"
+
