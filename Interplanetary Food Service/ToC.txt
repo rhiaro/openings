@@ -3,9 +3,25 @@ Table of Contents
 =================
 
 File Name                  Class      Layout    Document Label
---------------------------------------------------------------
+------------------------------------------------------------------------------
 content/ba02bbb41eb25.nwd  NOVEL      DOCUMENT  Title Page
-content/bddf643b8ef07.nwd  NOVEL      DOCUMENT  New Chapter
-content/805089799cda7.nwd  NOVEL      DOCUMENT  New Scene
+content/11503eae20dde.nwd  NOVEL      DOCUMENT  Prelude
+content/bddf643b8ef07.nwd  NOVEL      DOCUMENT  The Markets of Callore
+content/867aaf59f6e77.nwd  NOVEL      DOCUMENT  The Warrens of Elisis Tour
+content/c201c5efbb1fb.nwd  NOVEL      DOCUMENT  Misc scenes
 content/85d49c872197c.nwd  CHARACTER  NOTE      Niriscine
 content/f081bcd8695f9.nwd  CHARACTER  NOTE      Hu Bohgdan
+content/b91216aeecfb0.nwd  CHARACTER  NOTE      The kuondiforma
+content/a0a4bfd36ab52.nwd  CHARACTER  NOTE      Kein
+content/2b066092c13d3.nwd  CHARACTER  NOTE      Gillipus
+content/4976eb17ba335.nwd  CHARACTER  NOTE      Si Mekeneye
+content/70a8fb36e7f3c.nwd  CHARACTER  NOTE      Aïllle
+content/9ae9f6de7d37e.nwd  CHARACTER  NOTE      Jerviid
+content/8da808e2b7f7f.nwd  CHARACTER  NOTE      Buchtung and Venejj an-Thrawna
+content/09d5d2589677d.nwd  WORLD      NOTE      Caticum
+content/cfddbe93a6353.nwd  WORLD      NOTE      Eskin
+content/d6f918b01e9cf.nwd  WORLD      NOTE      Gunduk Lesser
+content/c1c58fc37fbae.nwd  WORLD      NOTE      Wetrock
+content/efdff8652c59c.nwd  WORLD      NOTE      Signori Asteroid Belt
+content/11daffba6e8f2.nwd  WORLD      NOTE      Zagrtati
+content/805089799cda7.nwd  NOVEL      DOCUMENT  New Scene

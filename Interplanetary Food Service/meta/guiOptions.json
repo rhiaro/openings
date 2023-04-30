@@ -2,10 +2,10 @@
   "GuiBuildNovel": {
     "hideScene": false,
     "hideSection": true,
-    "winWidth": 898,
-    "winHeight": 798,
+    "winWidth": 896,
+    "winHeight": 796,
     "boxWidth": 339,
-    "docWidth": 533,
+    "docWidth": 531,
     "justifyText": false,
     "noStyling": false,
     "textFont": "Tibetan Machine Uni",
