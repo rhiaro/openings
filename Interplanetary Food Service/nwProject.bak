@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:41:47">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:44:47">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
     <saveCount>4</saveCount>
-    <autoCount>95</autoCount>
-    <editTime>1840375</editTime>
+    <autoCount>97</autoCount>
+    <editTime>1840555</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>f35f869e3b141</lastEdited>
+    <lastEdited>245115bb97dc3</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>7426</lastWordCount>
+    <lastWordCount>7436</lastWordCount>
     <novelWordCount>6041</novelWordCount>
-    <notesWordCount>1385</notesWordCount>
+    <notesWordCount>1395</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -40,7 +40,7 @@
       <entry blue="0" green="200" red="50">Main</entry>
     </importance>
   </settings>
-  <content count="28">
+  <content count="29">
     <item handle="e85f088e64945" order="0" parent="None">
       <name>Novel</name>
       <type>ROOT</type>
@@ -237,6 +237,18 @@
       <paraCount>1</paraCount>
       <cursorPos>64</cursorPos>
     </item>
+    <item handle="245115bb97dc3" order="9" parent="820a62f4d3d2c">
+      <name>Marshat Luwas</name>
+      <type>FILE</type>
+      <class>CHARACTER</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>13</charCount>
+      <wordCount>2</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
     <item handle="1dde83ba92382" order="3" parent="None">
       <name>World</name>
       <type>ROOT</type>
@@ -311,10 +323,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>191</charCount>
-      <wordCount>31</wordCount>
-      <paraCount>1</paraCount>
-      <cursorPos>195</cursorPos>
+      <charCount>247</charCount>
+      <wordCount>39</wordCount>
+      <paraCount>2</paraCount>
+      <cursorPos>258</cursorPos>
     </item>
     <item handle="f35f869e3b141" order="6" parent="1dde83ba92382">
       <name>The Twist</name>
