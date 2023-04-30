@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:12:47">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:22:47">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
     <saveCount>4</saveCount>
-    <autoCount>92</autoCount>
-    <editTime>1838635</editTime>
+    <autoCount>93</autoCount>
+    <editTime>1839235</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -16,8 +16,8 @@
     <autoOutline>True</autoOutline>
     <lastEdited>c201c5efbb1fb</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>5910</lastWordCount>
-    <novelWordCount>4580</novelWordCount>
+    <lastWordCount>6414</lastWordCount>
+    <novelWordCount>5084</novelWordCount>
     <notesWordCount>1330</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -110,10 +110,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>9775</charCount>
-      <wordCount>1667</wordCount>
-      <paraCount>58</paraCount>
-      <cursorPos>4820</cursorPos>
+      <charCount>12664</charCount>
+      <wordCount>2171</wordCount>
+      <paraCount>80</paraCount>
+      <cursorPos>5651</cursorPos>
     </item>
     <item handle="833ac7978fc57" order="1" parent="None">
       <name>Plot</name>

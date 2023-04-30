@@ -19,7 +19,8 @@
       "T000003": {"level": "H3", "title": "Si Mekeneye appears", "layout": "DOCUMENT", "cCount": 2929, "wCount": 501, "pCount": 17, "synopsis": ""},
       "T000039": {"level": "H3", "title": "We've been invited..", "layout": "DOCUMENT", "cCount": 164, "wCount": 28, "pCount": 1, "synopsis": ""},
       "T000043": {"level": "H3", "title": "Hu Bohgdan and Kein working on a project", "layout": "DOCUMENT", "cCount": 2442, "wCount": 421, "pCount": 12, "synopsis": ""},
-      "T000069": {"level": "H3", "title": "Niriscine and Nvicc\u00e9 after hours", "layout": "DOCUMENT", "cCount": 4229, "wCount": 715, "pCount": 28, "synopsis": ""}
+      "T000069": {"level": "H3", "title": "Introducing Nvicc\u00e9", "layout": "DOCUMENT", "cCount": 2889, "wCount": 504, "pCount": 22, "synopsis": ""},
+      "T000115": {"level": "H3", "title": "Niriscine and Nvicc\u00e9 after hours", "layout": "DOCUMENT", "cCount": 4229, "wCount": 715, "pCount": 28, "synopsis": ""}
     },
     "85d49c872197c": {
       "T000001": {"level": "H1", "title": "Niriscine", "layout": "NOTE", "cCount": 752, "wCount": 135, "pCount": 5, "synopsis": ""}
@@ -82,7 +83,7 @@
     "11503eae20dde": ["H2", 1575, 265, 5],
     "bddf643b8ef07": ["H2", 4405, 739, 20],
     "867aaf59f6e77": ["H2", 11341, 1901, 56],
-    "c201c5efbb1fb": ["H2", 9775, 1667, 58],
+    "c201c5efbb1fb": ["H2", 12664, 2171, 80],
     "85d49c872197c": ["H1", 752, 135, 5],
     "f081bcd8695f9": ["H1", 206, 34, 4],
     "b91216aeecfb0": ["H1", 1034, 178, 7],
