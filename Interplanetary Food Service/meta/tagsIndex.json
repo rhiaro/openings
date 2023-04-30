@@ -67,7 +67,7 @@
       "T000001": {"level": "H1", "title": "Gunduk Lesser", "layout": "NOTE", "cCount": 13, "wCount": 2, "pCount": 0, "synopsis": ""}
     },
     "c1c58fc37fbae": {
-      "T000001": {"level": "H1", "title": "Wetrock", "layout": "NOTE", "cCount": 1409, "wCount": 218, "pCount": 8, "synopsis": ""}
+      "T000001": {"level": "H1", "title": "Wetrock", "layout": "NOTE", "cCount": 1606, "wCount": 248, "pCount": 8, "synopsis": ""}
     },
     "efdff8652c59c": {
       "T000001": {"level": "H1", "title": "Signori Asteroid Belt", "layout": "NOTE", "cCount": 645, "wCount": 112, "pCount": 4, "synopsis": ""}
@@ -94,7 +94,7 @@
     "09d5d2589677d": ["H1", 1164, 187, 5],
     "cfddbe93a6353": ["H1", 559, 96, 5],
     "d6f918b01e9cf": ["H1", 13, 2, 0],
-    "c1c58fc37fbae": ["H1", 1409, 218, 8],
+    "c1c58fc37fbae": ["H1", 1606, 248, 8],
     "efdff8652c59c": ["H1", 645, 112, 4],
     "11daffba6e8f2": ["H1", 191, 31, 1],
     "805089799cda7": ["H0", 9, 2, 0]
