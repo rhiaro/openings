@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-24 11:01:07">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:00:47">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
     <saveCount>4</saveCount>
-    <autoCount>83</autoCount>
-    <editTime>1821779</editTime>
+    <autoCount>88</autoCount>
+    <editTime>1837915</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>f081bcd8695f9</lastEdited>
+    <lastEdited>c1c58fc37fbae</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>4518</lastWordCount>
-    <novelWordCount>3444</novelWordCount>
-    <notesWordCount>1074</notesWordCount>
+    <lastWordCount>5403</lastWordCount>
+    <novelWordCount>4159</novelWordCount>
+    <notesWordCount>1244</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -110,10 +110,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>3104</charCount>
-      <wordCount>531</wordCount>
-      <paraCount>18</paraCount>
-      <cursorPos>3155</cursorPos>
+      <charCount>7333</charCount>
+      <wordCount>1246</wordCount>
+      <paraCount>46</paraCount>
+      <cursorPos>3193</cursorPos>
     </item>
     <item handle="833ac7978fc57" order="1" parent="None">
       <name>Plot</name>
@@ -287,10 +287,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>76</charCount>
-      <wordCount>14</wordCount>
-      <paraCount>1</paraCount>
-      <cursorPos>80</cursorPos>
+      <charCount>1187</charCount>
+      <wordCount>184</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>1032</cursorPos>
     </item>
     <item handle="efdff8652c59c" order="4" parent="1dde83ba92382">
       <name>Signori Asteroid Belt</name>
@@ -320,7 +320,7 @@
       <name>Trash</name>
       <type>TRASH</type>
       <class>TRASH</class>
-      <status>None</status>
+      <status>New</status>
       <expanded>True</expanded>
     </item>
     <item handle="805089799cda7" order="0" parent="0e3b0ea9ef7ca">
