@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:01:47">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:04:47">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
     <saveCount>4</saveCount>
-    <autoCount>89</autoCount>
-    <editTime>1837975</editTime>
+    <autoCount>91</autoCount>
+    <editTime>1838155</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>c1c58fc37fbae</lastEdited>
+    <lastEdited>b91216aeecfb0</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>5434</lastWordCount>
+    <lastWordCount>5489</lastWordCount>
     <novelWordCount>4159</novelWordCount>
-    <notesWordCount>1275</notesWordCount>
+    <notesWordCount>1330</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -160,10 +160,10 @@
       <status>Main</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>900</charCount>
-      <wordCount>156</wordCount>
-      <paraCount>6</paraCount>
-      <cursorPos>548</cursorPos>
+      <charCount>1034</charCount>
+      <wordCount>178</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>1050</cursorPos>
     </item>
     <item handle="a0a4bfd36ab52" order="3" parent="820a62f4d3d2c">
       <name>Kein</name>
@@ -287,10 +287,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>1393</charCount>
-      <wordCount>215</wordCount>
+      <charCount>1606</charCount>
+      <wordCount>248</wordCount>
       <paraCount>8</paraCount>
-      <cursorPos>1379</cursorPos>
+      <cursorPos>1624</cursorPos>
     </item>
     <item handle="efdff8652c59c" order="4" parent="1dde83ba92382">
       <name>Signori Asteroid Belt</name>

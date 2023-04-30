@@ -212,6 +212,32 @@ Niriscine grasped for what little knowledge she had of Caturmian physiology. The
 
 * * *
 
+Kein and Hu Bohgdan were working on a project to help Dandiarden and the rest of the kitchen team communicate. Hu Bohgdan had glands that could secrete the chemicals that enabled a limited form of exchange with most natives of hus adopted home planet; it was a standard physiological adjustment given to all Caturnians of a certain age. Kein's multitude of sensors allowed them to detect the subtlest changes in the molecular makeup of the air in the room, and was usually the first to know when Dandiarden needed something. If neither of them were present, Dandiarden was capable of emitting a strong enough smell to attract someone else's attention; but this didn't happen often.
+
+But all this amounted to really was a kind of crude sign language, a very limited form expressiveness. As far as Dandiarden was concerned, they were all talking baby talk, at best. It was frustrating at times, or even most of the time, but Dandiarden had chosen to accompany Hu Bohgdan to Wetrock. very few bristlin ever left Caticum; few even left the spot they germinated.
+
+So Hu Bohgdan had conspired with Kein to rig up a set of sensors that would sit in the sandy soil that surrounded Dandiarden's root system. The device would listen in on the continuous chemical exchanges that went on among the thousands of microbes and networked fungi that made up Dandiarden's life support system.
+
+"If we can get this right," said Hu Bohgdan, "this could change everything for more than just bristlin. For all of the planet-bound species on Caticum."
+
+"I can't cope with the whole planetary ecosystem linked into my brain," grumbled Kein.
+
+"Yes, well, we'll remove you as a dependency of course."
+
+"Maybe every travelling bristlin can have a Signori cyborg as an assistant. There should be enough of us. We can start a new symbiotic species."
+
+"I'm sure that won't be necessary. We just need an output device that can present the data in a auditory or visual way, that can be translated to most other languages. Or at least, to some other languages."
+
+"'Just'," snorted Kein.
+
+"One step at a time," said Hu Bohgdan patiently.
+
+"Aren't you worried about Dandiarden spilling all your secrets to me? How much control does it actually have over its comms underground? Isn't it basically part of a hive mind, naturally?"
+
+"Secrets?" Hu Bohgdan wrinkled hus brow in the Caturnian equivalent of raising an eyebrow. "I'm sure I don't know what you mean."
+
+* * *
+
 "Can I make you a warm alaya?" Nviccé finished putting away the last of the clean scoops, and walked over to the small stove. Niriscine was still scrubbing at a stubborn burn on the bottom of the tilter pan.
 
 "Oh... thanks," she lifted her head out and wiped sweat from her forehead with the back of her wrist. Her gloved hands were coated with both soap and grime. "But don't wait around for me if you're finished. You might as well go home."
