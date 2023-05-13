@@ -9,10 +9,10 @@
       "T000001": {"level": "H2", "title": "Prelude", "layout": "DOCUMENT", "cCount": 1575, "wCount": 265, "pCount": 5, "synopsis": ""}
     },
     "bddf643b8ef07": {
-      "T000001": {"level": "H2", "title": "Chapter One: The Markets of Callore, Eskine", "layout": "DOCUMENT", "cCount": 4405, "wCount": 739, "pCount": 20, "synopsis": ""}
+      "T000001": {"level": "H2", "title": "Chapter One: The Markets of Callore, Eskine", "layout": "DOCUMENT", "cCount": 5855, "wCount": 987, "pCount": 28, "synopsis": ""}
     },
     "867aaf59f6e77": {
-      "T000001": {"level": "H2", "title": "The Warrens of Elisis Tour, Ntaran", "layout": "DOCUMENT", "cCount": 11341, "wCount": 1901, "pCount": 56, "synopsis": ""}
+      "T000001": {"level": "H2", "title": "The Warrens of Elisis Tour, Ntaran", "layout": "DOCUMENT", "cCount": 17122, "wCount": 2873, "pCount": 90, "synopsis": ""}
     },
     "c201c5efbb1fb": {
       "T000001": {"level": "H2", "title": "Misc scenes", "layout": "DOCUMENT", "cCount": 11, "wCount": 2, "pCount": 0, "synopsis": ""},
@@ -89,8 +89,8 @@
   "fileMeta": {
     "ba02bbb41eb25": ["H1", 37, 6, 1],
     "11503eae20dde": ["H2", 1575, 265, 5],
-    "bddf643b8ef07": ["H2", 4405, 739, 20],
-    "867aaf59f6e77": ["H2", 11341, 1901, 56],
+    "bddf643b8ef07": ["H2", 5855, 987, 28],
+    "867aaf59f6e77": ["H2", 17122, 2873, 90],
     "c201c5efbb1fb": ["H2", 18483, 3128, 107],
     "85d49c872197c": ["H1", 752, 135, 5],
     "f081bcd8695f9": ["H1", 206, 34, 4],

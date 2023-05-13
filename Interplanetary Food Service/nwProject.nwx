@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-04-30 14:45:47">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-05-13 10:24:15">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
-    <saveCount>4</saveCount>
-    <autoCount>98</autoCount>
-    <editTime>1840615</editTime>
+    <saveCount>5</saveCount>
+    <autoCount>100</autoCount>
+    <editTime>1841104</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,10 +14,10 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>245115bb97dc3</lastEdited>
+    <lastEdited>bddf643b8ef07</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>7471</lastWordCount>
-    <novelWordCount>6041</novelWordCount>
+    <lastWordCount>8691</lastWordCount>
+    <novelWordCount>7261</novelWordCount>
     <notesWordCount>1430</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -86,10 +86,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>4405</charCount>
-      <wordCount>739</wordCount>
-      <paraCount>20</paraCount>
-      <cursorPos>3792</cursorPos>
+      <charCount>5855</charCount>
+      <wordCount>987</wordCount>
+      <paraCount>28</paraCount>
+      <cursorPos>5915</cursorPos>
     </item>
     <item handle="867aaf59f6e77" order="2" parent="2dddb2c05dec0">
       <name>The Warrens of Elisis Tour</name>
@@ -98,10 +98,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>11341</charCount>
-      <wordCount>1901</wordCount>
-      <paraCount>56</paraCount>
-      <cursorPos>5686</cursorPos>
+      <charCount>17122</charCount>
+      <wordCount>2873</wordCount>
+      <paraCount>90</paraCount>
+      <cursorPos>11312</cursorPos>
     </item>
     <item handle="c201c5efbb1fb" order="3" parent="2dddb2c05dec0">
       <name>Misc scenes</name>

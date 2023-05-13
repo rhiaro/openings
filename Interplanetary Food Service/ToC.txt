@@ -18,10 +18,12 @@ content/4976eb17ba335.nwd  CHARACTER  NOTE      Si Mekeneye
 content/70a8fb36e7f3c.nwd  CHARACTER  NOTE      Aïllle
 content/9ae9f6de7d37e.nwd  CHARACTER  NOTE      Jerviid
 content/8da808e2b7f7f.nwd  CHARACTER  NOTE      Buchtung and Venejj an-Thrawna
+content/245115bb97dc3.nwd  CHARACTER  NOTE      Marshat Luwas
 content/09d5d2589677d.nwd  WORLD      NOTE      Caticum
 content/cfddbe93a6353.nwd  WORLD      NOTE      Eskin
 content/d6f918b01e9cf.nwd  WORLD      NOTE      Gunduk Lesser
 content/c1c58fc37fbae.nwd  WORLD      NOTE      Wetrock
 content/efdff8652c59c.nwd  WORLD      NOTE      Signori Asteroid Belt
 content/11daffba6e8f2.nwd  WORLD      NOTE      Zagrtati
+content/f35f869e3b141.nwd  WORLD      NOTE      The Twist
 content/805089799cda7.nwd  NOVEL      DOCUMENT  New Scene
