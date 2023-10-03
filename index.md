@@ -254,6 +254,76 @@ Buchtung and Venejj an-Thrawna were up again, and passing news through the Openi
 
 Kein laughed at this, not pleasantly. "They worry about nothing. Use of Openings is only ever going up. It's just not sustainable to keep them only off-planet. It's what the people want."
 
+## Airdance of Home Centrale
+
+At first, there was only colour. A swirling mass, bright and gleaming. Kein thought they had Opened in some kind of spatial anomoly, and re-checked all the readings. Well, in a sense, they had. Niriscine and Gillipus just stared.
+
+"Ah, it's been so long!" Jerviid sighed, wrinkling his snout and clasping his thick hands to his chest. "The last airdance I attended, well... that was when I met my Millisen."
+
+Flashes of greens, pinks, yellows, oranges, sliced through the air around them. Everything glittered and sparkled as light bounced off hidden reflective surfaces. It really was as if they were in the center of a flurry of vibrantly-dressed dancers, who whirled endlessly around them, so fast they could not be seen but leaving dizzying trails of colour splashed in their wake. As each streaked hue faded it was son replaced by another from a different direction.
+
+Home Centrale was the capital of E2 in every sense but the official one. It was the most populous, and the most culturally rich of the four major population centers on the moon. The city was an enormous O shape, around the edge of a massive cater that had been a part of the landscape since before the Originals had deposited their eropod colony their. It flowed around and over the rim, and some way down the sides, but most of the space in the center of the bowl was empty, given over to an enormous anti-gravity field. People from across Fera Luing flooded here for recreation at any given them. There were floating parks, pools, parties, sports, music; a permanent schedule of ongoing festivities. At the center of it all, was the airdance.
+
+Niriscine had visited many times in the past. After all, E2 had been a constant feature in her sky as she grew up in E0. But she had never timed a visit with the famed aurora that took place once every four and a half orbits of E2 around the planet Eskin. The light and colour show was caused by a phenomenon that was triggered when the four outer Eskine moons aligned and the light of Fera Lu was refracted through all of their diverse atmospheres. It culd be seen only from E2, although there were theories that if there was anyone on E1 to witness it it should be visible from there as well.
+
+Gillipus was at work assembling the special packaging they used to serve the food in in low gravity environments. Jerviid had taught Niriscine how to make Millisen's favourite dish, which was a bland, mealy paste spread on slabs of dark, chewy bread, and topped with handfuls of crispy sprouted microgreens. Hu Bohgdan had made the paste from bizarre feathery fronds of some E2-native plant some while before, and Niriscine had been tasked with topping the bread. She diligently spread it to the very edges; Jerviid was quick to point out if she left any gaps. "High quality binnelflan always has good topping coverage," was his mantra. "It's a mark of an amateur if it doesn't reach precisely the edge." Naturally, it also wasn't allwoed to run over or drip down the sides. Fortunately, Niriscine had a steady hand.
+
+They all couldn't help but gawk out through the Opening as they worked on their preparations. Hu Bohgdan had suggested they Open early to make the most of watching the lights while they got ready.
+
+The Openings in the space were not static, but suspended seemingly haphazardly, allowed to drift freely in the thin air. So as well as the patterns outside in constant movement, the kitchen team's perspective of the view was shifting too. The colours made it difficult to have any sense of perspective or depth from unassisted vision alone. But when solid figures could be seen moving around at times, it became apparent that the air was quite hazy as well.
+
+Miniscule dust particles saturated the air on E2. The eropods could live outside of this environment, but revisiting it every now and again kept them healthy. Similarly, the other species, native and borrowed, of Fera Luing could breathe it and survive, but it wouldn't do them much good in the long term. This didn't stop plenty of people from settling there though, in one of the bustling but laid back cities, or the tranquility of the rural areas. The norm for the locals was to surround themselves with lavishly comfortable textures and furnishings, to take rest and relaxation seriously, and to live generally warm and cosy lives. This suited a large proportion of the system's population well, and the tiny moon was welcoming to all.
+
+"I feel sick," said Kein, turning away from the view. "It's too much motion."
+
+"I thought you Signori types were raised in low-G," said Gillipus, pleasantly surprised that Kein wasn't, for a change, sneering at something.
+
+"Low-G has nothing to do with it," Kein sneered. "It's all these flashing lights." They moved into the farthest corner of the room from the Opening.
+
+"Come fry these plantains," Hu Bohgdan summoned the cyborg to the stove. "You can keep your back turned. Niriscine, please take charge of operating the Opening today."
+
+"Sure!" It would be nice to have a chance to fiddle with the settings and test her understanding of how everything worked without Kein breathing down her neck.
+
+"Can't you just filter out the bits of the world view you don't like?" Gillipus was asking Kein. "Like change which bits of the light spectrum you can see?"
+
+"Not sufficiently to be able to stand this," Kein said dryly, gesturing with their third arm.
+
+* * *
+
+The mountain range of Hary Kary had been cut off from the mainland of the Primary continent on Eskin by a series of extreme weather events for several hundred years. These days they were accessible again, by land or air, though still only to the more intrepid travellers. Fortunately for the rest of the system, and indeed for the residents of the mountain settlements, some of the intrepid had taken along Opening frames and set them up there.
+
+Gillipus had arranged for a special kind of edible packaging from their homeswamp, and the kitchen team were set to work boxing up various Eskine dishes.
+
+"Why are we doing this again?" Grumbled Kein. "It's not 'fusion' if we have none of their dishes to fuse with, so they should eat least eat it our way too."
+
+"This _is_ the fusion," said Niriscine.
+
+"But _why_ won't they eat in public? They're really going to take it all away and hide in corners to eat alone like it's shameful?"
+
+Niriscine shrugged. "It's just their culture. Eating is just a private thing for them. All the other ways in which they're different, and this is what you're struggling with?"
+
+"It's just loads more work for us..."
+
+"Watch out, " Nvicce pointed to Kein's spoon. "You've spilled it down the side of the box."
+
+Kein sighed dramatically and put it aside. The food needed to be completely sealed in, with not a trace visible, or the locals would be unlikely to accept it.
+
+"They probably shit out in the open."
+
+"No doubt to them we'd be the weird disgusting ones," said Niriscine levelly. "Gillipus, how are you doing with the language?"
+
+"It's fascinating!" Gillipus was consuming tutorials on a handsfree display whilst packaging food.
+
+The mountains were home to several multi-species settlements, and the IPFS would visit them all over the course of a few days, along a schedule coordinated with a long list of other vendors.
+
+Each village had only one Opening each. The language spoken was a kind of pidgin Eskit, with words and grammar from almost a dozen other tongues native to the diverse mix of ancestors of the place. Most were Borrowed species, left there by the Originals for reasons long since lost to time. A few were Eskine natives. Some were the last of their kind, known at least, in the Fera Luing system.
+
+There was a substantive waitlist to Open in Hary Kary. Hu Bohgdan had had the kitchen on it for several systurns. In all that time, hu had been able to learn little to nothing of their local cuisine.
+
+So they had all proposed dishes from their own traditions, and Hu Bohgdan had narrowed down a tasting menu of courses that were complementary and distinctive.
+
+Kein's suggestion was a salty and spicy vat-grown algae soup, a true staple of the Signori Asteroid Belt. Nvicce had contributed something more modern, a salad of sprouted seeds and beans with hydroponic microgreens. Gillipus put forth a dense, crunchy bread made from powdered swamp-root flour and nuts. Niriscine chose an E0 street food staple, a mix of fried vegetables and fungi in a rich and savoury sauce with high-protein noodles. Hu Bohgdan's contribution was sweet; Caturnian fruit and sour berries set in jelly, topped with a thick green cream from the center of the hard-shelled gothinin tree nut. Millisen had volunteered Jerviid's favourite food from their home on E6: a mashed concoction with a mild taste, somewhere between sweet and savoury, apparently carrying flavours that most non-eropods could not detect at all. this was to be drizzled with a bitter syrup, but it needed to be done right before eating. They packed this separately and hoped the Hary Kary peoples got the idea.
+
 ## Misc scenes
 
 There was a stranger in the kitchen when Niriscine arrived. Standing with arms folded (two), and staring with - Niriscine interpreted the alien's expression as best she could - a stern, impatient glare at the deactivated Opening.
@@ -479,4 +549,14 @@ Kein hissed and spun around to face them, tuning back into the audio in the room
 "What are you doing here? There's nothing scheduled. Don't you have something better to do?"
 
 Jerviid humphed, wrinkling his snout and turning away. "Niriscine left her jacket here after that lirivale sauce accident. It should be dry by now. Niriscine shrugged apologetically at Kein and followed Jerviid to where he had left the coat hanging after helpfully washing it for her.
+
+* * *
+
+The wailing sound travelled around the curving hallway to reach Niriscine when she was still several moments away from the sight of the kitchen entrance. It sounded, to her ears, like an abandoned infant in distress. The high, rolling cry sent her heart racing and she quickened her pace.
+
+She burst around the corner and clattered through the beaded curtain to see the twisting, writhing form of Aille pirouetting in the center of the floor.
+
+"What's wrong?" She gasped.
+
+Aille paused, mid-pivot. The noise continued.
 

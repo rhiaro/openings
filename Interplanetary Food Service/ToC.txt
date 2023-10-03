@@ -8,6 +8,8 @@ content/ba02bbb41eb25.nwd  NOVEL      DOCUMENT  Title Page
 content/11503eae20dde.nwd  NOVEL      DOCUMENT  Prelude
 content/bddf643b8ef07.nwd  NOVEL      DOCUMENT  The Markets of Callore
 content/867aaf59f6e77.nwd  NOVEL      DOCUMENT  The Warrens of Elisis Tour
+content/bebd21fb524ec.nwd  NOVEL      DOCUMENT  Airdance of Home Centrale
+content/7e10b0acc860b.nwd  NOVEL      DOCUMENT  Hary Kary Mountains
 content/c201c5efbb1fb.nwd  NOVEL      DOCUMENT  Misc scenes
 content/85d49c872197c.nwd  CHARACTER  NOTE      Niriscine
 content/f081bcd8695f9.nwd  CHARACTER  NOTE      Hu Bohgdan
@@ -19,6 +21,7 @@ content/70a8fb36e7f3c.nwd  CHARACTER  NOTE      Aïllle
 content/9ae9f6de7d37e.nwd  CHARACTER  NOTE      Jerviid
 content/8da808e2b7f7f.nwd  CHARACTER  NOTE      Buchtung and Venejj an-Thrawna
 content/245115bb97dc3.nwd  CHARACTER  NOTE      Marshat Luwas
+content/18a1808b5b963.nwd  CHARACTER  NOTE      Nviccé
 content/09d5d2589677d.nwd  WORLD      NOTE      Caticum
 content/cfddbe93a6353.nwd  WORLD      NOTE      Eskin
 content/d6f918b01e9cf.nwd  WORLD      NOTE      Gunduk Lesser

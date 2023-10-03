@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-05-30 17:07:07">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-10-03 16:55:37">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
-    <saveCount>5</saveCount>
-    <autoCount>106</autoCount>
-    <editTime>3659675</editTime>
+    <saveCount>6</saveCount>
+    <autoCount>110</autoCount>
+    <editTime>3974890</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,10 +14,10 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>bebd21fb524ec</lastEdited>
+    <lastEdited>c201c5efbb1fb</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>9417</lastWordCount>
-    <novelWordCount>7951</novelWordCount>
+    <lastWordCount>10129</lastWordCount>
+    <novelWordCount>8663</novelWordCount>
     <notesWordCount>1466</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -40,7 +40,7 @@
       <entry blue="0" green="200" red="50">Main</entry>
     </importance>
   </settings>
-  <content count="31">
+  <content count="32">
     <item handle="e85f088e64945" order="0" parent="None">
       <name>Novel</name>
       <type>ROOT</type>
@@ -101,7 +101,7 @@
       <charCount>17122</charCount>
       <wordCount>2873</wordCount>
       <paraCount>90</paraCount>
-      <cursorPos>5686</cursorPos>
+      <cursorPos>7100</cursorPos>
     </item>
     <item handle="bebd21fb524ec" order="3" parent="2dddb2c05dec0">
       <name>Airdance of Home Centrale</name>
@@ -113,19 +113,31 @@
       <charCount>5382</charCount>
       <wordCount>938</wordCount>
       <paraCount>16</paraCount>
-      <cursorPos>301</cursorPos>
+      <cursorPos>474</cursorPos>
     </item>
-    <item handle="c201c5efbb1fb" order="4" parent="2dddb2c05dec0">
+    <item handle="7e10b0acc860b" order="4" parent="2dddb2c05dec0">
+      <name>Hary Kary Mountains</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>3602</charCount>
+      <wordCount>625</wordCount>
+      <paraCount>17</paraCount>
+      <cursorPos>3640</cursorPos>
+    </item>
+    <item handle="c201c5efbb1fb" order="5" parent="2dddb2c05dec0">
       <name>Misc scenes</name>
       <type>FILE</type>
       <class>NOVEL</class>
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>18483</charCount>
-      <wordCount>3128</wordCount>
-      <paraCount>107</paraCount>
-      <cursorPos>5651</cursorPos>
+      <charCount>19008</charCount>
+      <wordCount>3215</wordCount>
+      <paraCount>111</paraCount>
+      <cursorPos>19275</cursorPos>
     </item>
     <item handle="833ac7978fc57" order="1" parent="None">
       <name>Plot</name>
