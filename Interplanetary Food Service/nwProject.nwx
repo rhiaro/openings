@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-10-03 16:55:37">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-10-28 14:00:54">
   <project>
     <name>Interplanetary Food Service</name>
     <title>Interplanetary Food Service</title>
     <author>Rhia Ro</author>
-    <saveCount>6</saveCount>
-    <autoCount>110</autoCount>
-    <editTime>3974890</editTime>
+    <saveCount>7</saveCount>
+    <autoCount>114</autoCount>
+    <editTime>3977799</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -16,8 +16,8 @@
     <autoOutline>True</autoOutline>
     <lastEdited>c201c5efbb1fb</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>10129</lastWordCount>
-    <novelWordCount>8663</novelWordCount>
+    <lastWordCount>10666</lastWordCount>
+    <novelWordCount>9200</novelWordCount>
     <notesWordCount>1466</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -80,28 +80,28 @@
       <cursorPos>375</cursorPos>
     </item>
     <item handle="bddf643b8ef07" order="1" parent="2dddb2c05dec0">
-      <name>The Markets of Callore</name>
+      <name>Markets of Callore</name>
       <type>FILE</type>
       <class>NOVEL</class>
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>4405</charCount>
-      <wordCount>739</wordCount>
-      <paraCount>20</paraCount>
-      <cursorPos>3792</cursorPos>
+      <charCount>5846</charCount>
+      <wordCount>986</wordCount>
+      <paraCount>28</paraCount>
+      <cursorPos>3009</cursorPos>
     </item>
     <item handle="867aaf59f6e77" order="2" parent="2dddb2c05dec0">
-      <name>The Warrens of Elisis Tour</name>
+      <name>Warrens of Elisis Tour</name>
       <type>FILE</type>
       <class>NOVEL</class>
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>17122</charCount>
-      <wordCount>2873</wordCount>
+      <charCount>17118</charCount>
+      <wordCount>2872</wordCount>
       <paraCount>90</paraCount>
-      <cursorPos>7100</cursorPos>
+      <cursorPos>3</cursorPos>
     </item>
     <item handle="bebd21fb524ec" order="3" parent="2dddb2c05dec0">
       <name>Airdance of Home Centrale</name>
@@ -116,16 +116,16 @@
       <cursorPos>474</cursorPos>
     </item>
     <item handle="7e10b0acc860b" order="4" parent="2dddb2c05dec0">
-      <name>Hary Kary Mountains</name>
+      <name>Mountains of Hary Kary</name>
       <type>FILE</type>
       <class>NOVEL</class>
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>3602</charCount>
-      <wordCount>625</wordCount>
+      <charCount>3605</charCount>
+      <wordCount>626</wordCount>
       <paraCount>17</paraCount>
-      <cursorPos>3640</cursorPos>
+      <cursorPos>26</cursorPos>
     </item>
     <item handle="c201c5efbb1fb" order="5" parent="2dddb2c05dec0">
       <name>Misc scenes</name>
@@ -134,10 +134,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>19008</charCount>
-      <wordCount>3215</wordCount>
-      <paraCount>111</paraCount>
-      <cursorPos>19275</cursorPos>
+      <charCount>20710</charCount>
+      <wordCount>3505</wordCount>
+      <paraCount>120</paraCount>
+      <cursorPos>21001</cursorPos>
     </item>
     <item handle="833ac7978fc57" order="1" parent="None">
       <name>Plot</name>

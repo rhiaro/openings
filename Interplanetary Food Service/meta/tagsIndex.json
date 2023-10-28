@@ -9,10 +9,10 @@
       "T000001": {"level": "H2", "title": "Prelude", "layout": "DOCUMENT", "cCount": 1575, "wCount": 265, "pCount": 5, "synopsis": ""}
     },
     "bddf643b8ef07": {
-      "T000001": {"level": "H2", "title": "Chapter One: The Markets of Callore, Eskine", "layout": "DOCUMENT", "cCount": 4405, "wCount": 739, "pCount": 20, "synopsis": ""}
+      "T000001": {"level": "H2", "title": "Chapter One: Markets of Callore, Eskine", "layout": "DOCUMENT", "cCount": 5846, "wCount": 986, "pCount": 28, "synopsis": ""}
     },
     "867aaf59f6e77": {
-      "T000001": {"level": "H2", "title": "The Warrens of Elisis Tour, Ntaran", "layout": "DOCUMENT", "cCount": 11341, "wCount": 1901, "pCount": 56, "synopsis": ""}
+      "T000001": {"level": "H2", "title": "Warrens of Elisis Tour, Ntaran", "layout": "DOCUMENT", "cCount": 17118, "wCount": 2872, "pCount": 90, "synopsis": ""}
     },
     "c201c5efbb1fb": {
       "T000001": {"level": "H2", "title": "Misc scenes", "layout": "DOCUMENT", "cCount": 11, "wCount": 2, "pCount": 0, "synopsis": ""},
@@ -22,7 +22,8 @@
       "T000069": {"level": "H3", "title": "Introducing Nvicc\u00e9", "layout": "DOCUMENT", "cCount": 2889, "wCount": 504, "pCount": 22, "synopsis": ""},
       "T000115": {"level": "H3", "title": "Niriscine and Nvicc\u00e9 after hours", "layout": "DOCUMENT", "cCount": 4229, "wCount": 715, "pCount": 28, "synopsis": ""},
       "T000173": {"level": "H3", "title": "Marshat Luwas", "layout": "DOCUMENT", "cCount": 5819, "wCount": 957, "pCount": 27, "synopsis": ""},
-      "T000229": {"level": "H3", "title": "Aille dancing", "layout": "DOCUMENT", "cCount": 525, "wCount": 87, "pCount": 4, "synopsis": ""}
+      "T000229": {"level": "H3", "title": "Aille dancing", "layout": "DOCUMENT", "cCount": 525, "wCount": 87, "pCount": 4, "synopsis": ""},
+      "T000239": {"level": "H3", "title": "The Capsule arrives in Sol System", "layout": "DOCUMENT", "cCount": 1702, "wCount": 290, "pCount": 9, "synopsis": ""}
     },
     "85d49c872197c": {
       "T000001": {"level": "H1", "title": "Niriscine", "layout": "NOTE", "cCount": 752, "wCount": 135, "pCount": 5, "synopsis": ""}
@@ -93,15 +94,15 @@
       "T000001": {"level": "H2", "title": "Airdance of Home Centrale", "layout": "DOCUMENT", "cCount": 5382, "wCount": 938, "pCount": 16, "synopsis": ""}
     },
     "7e10b0acc860b": {
-      "T000001": {"level": "H3", "title": "Hary Kary Mountains", "layout": "DOCUMENT", "cCount": 3602, "wCount": 625, "pCount": 17, "synopsis": ""}
+      "T000001": {"level": "H3", "title": "Mountains of Hary Kary", "layout": "DOCUMENT", "cCount": 3605, "wCount": 626, "pCount": 17, "synopsis": ""}
     }
   },
   "fileMeta": {
     "ba02bbb41eb25": ["H1", 37, 6, 1],
     "11503eae20dde": ["H2", 1575, 265, 5],
-    "bddf643b8ef07": ["H2", 4405, 739, 20],
-    "867aaf59f6e77": ["H2", 11341, 1901, 56],
-    "c201c5efbb1fb": ["H2", 19008, 3215, 111],
+    "bddf643b8ef07": ["H2", 5846, 986, 28],
+    "867aaf59f6e77": ["H2", 17118, 2872, 90],
+    "c201c5efbb1fb": ["H2", 20710, 3505, 120],
     "85d49c872197c": ["H1", 752, 135, 5],
     "f081bcd8695f9": ["H1", 206, 34, 4],
     "b91216aeecfb0": ["H1", 1034, 178, 7],
@@ -122,6 +123,6 @@
     "245115bb97dc3": ["H1", 249, 37, 3],
     "18a1808b5b963": ["H1", 73, 12, 1],
     "bebd21fb524ec": ["H2", 5382, 938, 16],
-    "7e10b0acc860b": ["H3", 3602, 625, 17]
+    "7e10b0acc860b": ["H3", 3605, 626, 17]
   }
 }
